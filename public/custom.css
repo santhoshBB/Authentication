@@ -1,0 +1,19 @@
+.alert.alert-danger{
+    background: #ffdada;
+color: black;
+border: none;
+border-left: 8px solid red;
+border-radius: 0;
+transform: translate(22px);
+transition: ease all 0.4s;
+}
+
+.alert.alert-success{
+    background: #ddffd6;
+    color: black;
+    border: none;
+    border-left: 8px solid rgb(6, 136, 12);
+    border-radius: 0;
+    transform: translate(22px);
+    transition: ease all 0.2s;
+}
